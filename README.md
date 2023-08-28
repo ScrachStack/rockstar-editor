@@ -1,4 +1,5 @@
 # rockstar-editor
+Need support? join the discord!
 Discord: https://discord.gg/cfxdev
 ## Requirements: 
 oxlib - https://github.com/overextended/ox_lib
