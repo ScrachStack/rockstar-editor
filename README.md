@@ -1,6 +1,5 @@
 # rockstar-editor
-Need support? join the discord!
-Discord: https://discord.gg/cfxdev
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T01APGOO)
 ## Requirements: 
 oxlib - https://github.com/overextended/ox_lib
 
